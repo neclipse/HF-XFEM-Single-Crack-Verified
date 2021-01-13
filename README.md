@@ -1,6 +1,6 @@
 # HFXFEM-Single-Crack-Verified
 
-This Matlab package is developed following the Object-oriented paradiagm. The theoretical details will be available in our future publication (SPE-204476-PA).
+This Matlab package is developed following the Object-oriented paradiagm. The theoretical details will be available in our latest publication (https://doi.org/10.2118/204476-PA).
 The core structure is inherited from my other [repository](https://github.com/neclipse/FEA-in-Matlab-NSMOOM). Please consider to use the two algorithm flowcharts and one class aggregation map for quick understanding of the package.
 
 It was verified for single crack against latest analytical solution (Dontsov 2017) using the edge crack problem. Yet, the correctness of the whole package for general use is not guaranteed. 
